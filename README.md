@@ -1,2 +1,2 @@
 # server
-Js Server
+JavaScript Test Server
